@@ -1,5 +1,6 @@
 # Generated Links
 
+- [My wiki repository](README.md)
 - [Vimwiki](Vimwiki.md)
 - [Generated Links](index.md)
 - [No Password When pushing to Your own Github](no_more_password_when_pushing_to_your_own_github.md)
