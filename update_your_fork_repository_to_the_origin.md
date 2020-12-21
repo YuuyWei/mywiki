@@ -4,7 +4,7 @@ After you fork a repository, the repository is unrelated to the origin one.
 To keep in accordance with the origin, you can use `git remote`.
 
 Make sure you have installed [git](https://git-scm.com/) in your computer.
-Then let's start with [Spoon Knife](https://github.com/octocat/Spoon-Knife.md)
+Then let's start with [Spoon Knife](https://github.com/octocat/Spoon-Knife)
 as example.
 
 1. fork the repository
