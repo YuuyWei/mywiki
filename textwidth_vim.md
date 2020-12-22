@@ -1,4 +1,4 @@
-# Tips in Vim
+# Auto format texts in fixed width in Vim
 :vim:
 
 ## 怎样让Vim保持78一换行
