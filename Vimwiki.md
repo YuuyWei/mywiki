@@ -80,3 +80,6 @@ The `lists_return` disable the <CR> and <S-CR> in lists mapping, The official
 version doesn't provide the `lists_return`, so I add this variable to
 `g:vimwiki_key_mappings`. 
 
+Without <CR> it will be a little annoying when editing lists. Fortunately you
+can use `o` in normal mode to add a list bullet and `<C-l><C-m>` in insert to
+remove a list bullet
